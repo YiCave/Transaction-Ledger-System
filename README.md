@@ -10,7 +10,7 @@ Softwares Applied:
 3. Backend-MySQL Database
 
 Teammates:
-Ong Yi Hao (Year 1 Artificial Intelligence)
-Chan Yi Ern (Year 1 Artificial Intelligence)
-Julius Lim Jun Herng (Year 1 Software Engineering)
-Jonathan Mong Jing Yang (Year 1 Artificial Intelligence)
+1.Ong Yi Hao (Year 1 Artificial Intelligence)
+2.Chan Yi Ern (Year 1 Artificial Intelligence)
+3.Julius Lim Jun Herng (Year 1 Software Engineering)
+4.Jonathan Mong Jing Yang (Year 1 Artificial Intelligence)
